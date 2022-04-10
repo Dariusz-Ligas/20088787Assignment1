@@ -1,2 +1,11 @@
-# 20088787Assignment1
-Assignment 1
+# Movies App Solution
+
+To use this solution:
+
+- In a command prompt, run these commands:
+
+```
+npm install
+npm start
+```
+
